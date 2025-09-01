@@ -1,2 +1,2 @@
 # C-Programming-Lab
-This is new repository for Lab task.
+This is my newly created repository for the Lab task.
