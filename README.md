@@ -6,7 +6,7 @@ This is my newly created repository for the Lab task.
 - HTML
 - CSS
 
-### Python
+### Python 
 - **High-level language** 
 - **Beginner-friendly** 
 - *Popular*
@@ -14,19 +14,18 @@ This is my newly created repository for the Lab task.
 - ~~Speed (Performance)~~
 - ~~Native mobile app development~~
 
-#### 4. Code Block
+#### Code Block
 Here’s an example Git command inside a code block:
 
-```bash
-git status
+##### ``` git status ```
+
+###### A task list
+- [x] Lab-1 Tasks
+- [x] Lab-2 Tasks
+- [ ] Lab-3 Tasks 
 
 
-## My GitHub Task List
-- [x] Create a repository
-- [x] Add a README.md file
-- [ ] Create a new branch
-- [ ] Commit a file
-- [ ] Open a Pull Request
+
 
 
 
