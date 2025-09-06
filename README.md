@@ -15,14 +15,16 @@ This is my newly created repository for the Lab task.
 - ~~Native mobile app development~~
 
 #### Code Block
-Here’s an example Git command inside a code block:
+Example of a code block (showing a Git command):  
 
-##### ``` git status ```
+```bash
+git status
+```
 
 ###### A task list
 - [x] Lab-1 Tasks
-- [x] Lab-2 Tasks
-- [ ] Lab-3 Tasks 
+- [ ] Lab-2 Tasks
+
 
 
 
